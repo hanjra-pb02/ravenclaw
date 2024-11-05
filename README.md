@@ -10,6 +10,11 @@
 
 [Click here to finish setting up your workspace!](https://cloud.nx.app/connect/ihY6Z6qqK4)
 
+## Installs
+    Node: 20.13.0 
+    Yarn: 1.22.22 
+    npm: 10.5.2 
+    nx: 20.0.7
 
 ## Run tasks
 
